@@ -2,7 +2,7 @@
 from tkinter import *
 import datetime
 import time
-import winsound
+#import winsound
 from threading import *
 
 # Create Object
